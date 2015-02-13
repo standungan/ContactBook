@@ -1,5 +1,5 @@
 ## Data Science Specialization
 
-*a
+* a
 li b
 li c
